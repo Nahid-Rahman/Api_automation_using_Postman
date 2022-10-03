@@ -21,7 +21,7 @@
   - Clone this project
   - Hit the following command: 
   ``` npm i ```
-  ``` npm test
+  ``` npm test ```
   
 ## Preerequisite
   - Node JS must be installed
